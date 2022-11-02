@@ -1,6 +1,0 @@
-framework module Pods_ios_base_viper {
-  umbrella header "Pods-ios-base-viper-umbrella.h"
-
-  export *
-  module * { export * }
-}
